@@ -1,4 +1,4 @@
-# hello-world---Spring-Boot
+# hello-world - Spring-Boot
 ## Contents
 
 - [Code Execution](#Code-Execution)
@@ -40,7 +40,7 @@ $ mvnw spring-boot:run
 ### - index.html
 ##### (demo\src\main\resources\static\index.html)
 처음(http://localhost:8080)에 표시될 파일.
-Click 옆 'hello page'를 누르면 'http://localhost:8080/hello'로 이동한다.
+Click 옆 'hello page'를 누르면 'http://localhost:8080/hello' 로 이동한다.
 
 
 ### - HelloController.java
